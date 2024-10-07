@@ -1,13 +1,7 @@
 * {
     box-sizing: border-box;
     scroll-behavior: smooth;
-
 }
-
-main {
-    margin-top: 80px;
-}
-
 
 body {
     font-family: 'Montserrat';
