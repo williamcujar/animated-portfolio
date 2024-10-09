@@ -1,2 +1,3 @@
-# animated-portfolio
-Animated portfolio
+# Este proyecto es un ejemplo de un portafolio personal creado con HTML y CSS. El diseño es responsive, adaptándose a diferentes dispositivos, y está estructurado con CSS Grid. Además, incorpora animaciones CSS para mejorar la experiencia de usuario. Fue creado para poner en práctica mis conocimientos en maquetación web, diseño moderno y efectos visuales.
+
+# This project is an example of a personal portfolio created with HTML and CSS. The design is responsive, adapting to different devices, and is structured with CSS Grid. It also incorporates CSS animations to improve the user experience. It was created to put into practice my knowledge in web layout, modern design and visual effects.
